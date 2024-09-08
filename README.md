@@ -7,8 +7,8 @@ I work full time as a C# developer already. I wanted to learn more about other f
 ## Project goals ##
 
 
-Fully implement an oauth server. Using libraries is OK.
-If session information is to be stored, use Mongodb.
-Include a postman playbook for testing.
+Fully implement an oauth server. Using libraries is OK.  
+If session information is to be stored, use Mongodb.  
+Include a postman playbook for testing.  
 
 
