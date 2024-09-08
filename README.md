@@ -1,10 +1,10 @@
 # Learning Project #
 
-# About Me #
+## About Me ##
 
 I work full time as a C# developer already. I wanted to learn more about other frameworks.
 
-# Project goals #
+## Project goals ##
 
 
 Fully implement an oauth server. Using libraries is OK.
